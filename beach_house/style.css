@@ -1,0 +1,22 @@
+h1 { font-family: 'Acem', sans-serif; color:  black; text-align: center;  font-size: 35px; margin-left: auto; margin-right: auto; }
+h2 { font-family: 'Acme', sans-serif; text-align: center; color:  black; font-size: 26px; margin-left: auto; margin-right: auto; }
+p { font-family: 'Acme', sans-serif; color:  rgb(34,50,68); text-align: center; font-size: 18px; margin-left: 10%; margin-right: 10%;}
+body { background-image: repeating-linear-gradient(#31D8E4,#28D1DE,#31D8E4); margin: 0 10%; font-family: 'Acme'; }
+
+table { text-align: center; margin-left: auto; margin-right: auto; width: 100%;}
+th { background-color: #F6AD61; font-family: 'Acme', sans-serif; color: black; font-size: 20px; border: 1px solid #F9CC74; }
+
+a:link { text-decoration: none; color: black; }
+a:visited { text-decoration: none; color: black; }
+a:hover, a:focus { text-decoration: none; color: black; background-color: #fff; }
+a:active { text-decoration: none; color: black; background-color: #fff; }
+s
+.there { color: blue; }
+.line { color: #9A6703; }
+.footer { color: black; }
+.center { display: block;}
+
+footer { text-align:center; padding-top: .5em; }
+footer img { width: 40px; height: 40px; margin-left: auto; margin-right: auto; }
+
+img { object-fit: cover; margin-left: auto; margin-right: auto; text-align: center;}
